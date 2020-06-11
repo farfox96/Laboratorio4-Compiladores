@@ -12,7 +12,7 @@ por: Jesus De Gracia 8-1086-1646
   Entre los cambios hechos al codigo podemos mencionar:
   
  - Personalizacion del codigo para detallar participantes y mensajes para mejor interpretacion del usuario.
- - Arreglos de compatibilidad como int main() y returno 0.
+ - Arreglos de compatibilidad como int main() y return 0.
  - Añadimos getchar para poder ver los mensajes cuando sale syntax error.
  - Agregamos un mensaje de salida con la tecla "Enter": para poder elegir cuando salir.
  - Durante el gcc nos salen 3 advertencias pero que no afectan el proceso ya que son correciones implicitas.
