@@ -9,11 +9,12 @@ por: Jesus De Gracia 8-1086-1646
  - Galeria de imagenes con orden numerico del proceso de instalacion (cada imagen tiene como nombre su descripcion)
  - Adjuntamos por separado el laboratorio4.exe (ejecutable) para facilidad de descarga
  
- - Entre los cambios hechos al codigo podemos mencionar:
- > personalizacion del codigo para detallar participantes y mensajes para mejor interpretacion del usuario
- > arreglos de compatibilidad como int main() y returno 0.
- > añadimos getchar para poder ver los mensajes cuando sale syntax error.
- > agregamos un mensaje de salida con la tecla "Enter": para poder elegir cuando salir.
- > durante el gcc no salen 3 advertencias pero que no afectan el proceso ya que es correciones implicitas.
+  Entre los cambios hechos al codigo podemos mencionar:
+  
+ - Personalizacion del codigo para detallar participantes y mensajes para mejor interpretacion del usuario.
+ - Arreglos de compatibilidad como int main() y returno 0.
+ - Añadimos getchar para poder ver los mensajes cuando sale syntax error.
+ - Agregamos un mensaje de salida con la tecla "Enter": para poder elegir cuando salir.
+ - Durante el gcc nos salen 3 advertencias pero que no afectan el proceso ya que son correciones implicitas.
  
 
